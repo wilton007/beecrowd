@@ -26,5 +26,6 @@ public class Exercicio_1012 {
         System.out.println("RETANGULO: " + df.format(retangulo));
 
 
+
     }
 }
