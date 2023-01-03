@@ -11,7 +11,6 @@ public class Exercicio_1011 {
         double R = entrada.nextDouble();
 
         double volume = (4 / 3.0) * 3.14159 * (R * R * R);
-
         System.out.println("VOLUME = " + df.format(volume));
     }
 }
