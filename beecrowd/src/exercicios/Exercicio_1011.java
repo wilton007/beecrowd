@@ -4,6 +4,7 @@ import java.text.DecimalFormat;
 import java.util.Scanner;
 
 public class Exercicio_1011 {
+
     public static void main(String[] args) {
         DecimalFormat df = new DecimalFormat("00.000");
         Scanner entrada = new Scanner(System.in);
