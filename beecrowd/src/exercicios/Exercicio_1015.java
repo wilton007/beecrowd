@@ -3,7 +3,8 @@ package exercicios;
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
-public class Exercico_1015 {
+public class Exercicio_1015 {
+
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         DecimalFormat df = new DecimalFormat("0.0000");
