@@ -9,6 +9,7 @@ public class Exercicio_1016 {
 
         int x = input.nextInt();
         x = x * 2;
+
         System.out.println(x + " minutos");
     }
 }
