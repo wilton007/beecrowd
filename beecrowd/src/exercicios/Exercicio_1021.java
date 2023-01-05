@@ -3,7 +3,7 @@ package exercicios;
 
 import java.util.Scanner;
 
-public class Exercico_1021 {
+public class Exercicio_1021 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
@@ -23,7 +23,7 @@ public class Exercico_1021 {
         System.out.println((int) (N / 2.0) + " nota(s) de R$ 2.00");
         N = N % 2;
         System.out.println("MOEDAS:");
-        System.out.println((int) (N / 1) + " moeda(s) de R$ 1.00");
+        System.out.println((int) (N) + " moeda(s) de R$ 1.00");
         N = N % 1;
         System.out.println((int) (N / 0.50) + " moeda(s) de R$ 0.50");
         N = N % 0.50;
